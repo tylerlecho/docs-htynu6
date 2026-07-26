@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-fo86lw.salamcuan.shop/sitemap.xml
